@@ -1,6 +1,5 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/CharlyAnne/Portfolio_website)
   [![Twitter Follow](https://img.shields.io/twitter/follow/charliemoisili?style=social)](https://twitter.com/intent/follow?screen_name=charlieimoisili)
 
   <br />
